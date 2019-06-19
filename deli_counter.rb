@@ -1,4 +1,9 @@
 
+
+
+
+
+=begin
 def line(array)
   if array.empty?
     puts "The line is currently empty."
@@ -12,7 +17,7 @@ def line(array)
 end 
 
 
-
+=end
 
 
 
