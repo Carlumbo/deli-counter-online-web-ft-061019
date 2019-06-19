@@ -8,7 +8,7 @@ def line(array)
       array.each_with_index do |person, index|
         puts "#{index} #{person}"
       end
-      
+      puts current_line
   end
 end 
 
